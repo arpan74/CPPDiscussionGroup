@@ -1,4 +1,5 @@
-class object1{
+#pragma pack(2)
+class object3{
 	char a;
         short a1;
         char b1;
